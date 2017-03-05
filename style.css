@@ -1,0 +1,17 @@
+#glogo {
+margin-top: 100px;
+}
+
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+.navbar li { 
+	color: #000;
+	 } 
+
+.lower-right {
+	margin-right: 20px;
+}
